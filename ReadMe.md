@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, I am Adil
 🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Web development<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about<br>⚡ You can count on me anytime
 
 
