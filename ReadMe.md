@@ -1,6 +1,5 @@
 # 💫 Hi there, I am Adil
-🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Web development<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about<br>⚡ You can count on me anytime
-
+🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Web development<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about Nodejs,Reactjs<br>⚡ You can reach me at asadilmohammad2020@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/reels/C_bEhwdgt-9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-s-adil-mohammad/) 
